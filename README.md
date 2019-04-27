@@ -10,3 +10,14 @@
 ## 2-admin(supplier) view
 * add product 
 * check orders from customers
+ # what i used in this app:
+ * firbase auth
+ * firebase database 
+ * firebase storage
+ * recyclerview
+ * cardview
+ * android-image-cropper api
+ * picasso library
+ 
+ 
+ # login
